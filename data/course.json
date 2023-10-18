@@ -1,0 +1,34 @@
+{
+  "term": "",
+  "year": "",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test5678"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test5678"
+  },
+  "course_title": "test5677",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test5678"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "63de1cd6-fab3-4899-98c2-b171f6591c53",
+  "site_short_id": "test5678"
+}
